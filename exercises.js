@@ -1,5 +1,5 @@
 
-// For each of the functions lised below, indicate the O notation as wll as your reasoning behind the answer.
+// For each of the functions listed below, indicate the O notation as wll as your reasoning behind the answer.
 
 // 1. Even or odd
 
