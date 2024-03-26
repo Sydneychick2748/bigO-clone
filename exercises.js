@@ -10,7 +10,14 @@ function isEven(value){
     else
       return false;
   }
-  
+  //the time taken by the function remains constant, irrespective of the input size, making it O(1).
+
+
+
+
+
+
+
 
   
 // 2. Are You Here?
@@ -25,6 +32,8 @@ function isEven(value){
       }
       return false;
   }
+  
+
   
   
 // 3. Doubler
